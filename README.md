@@ -1,4 +1,4 @@
-Creating Solutions with the Team Data Science Process (TDSP)
+Introduction
 ============================================================
 
 In this hands-on workshop, you’ll cover a series of modules that guide you in
